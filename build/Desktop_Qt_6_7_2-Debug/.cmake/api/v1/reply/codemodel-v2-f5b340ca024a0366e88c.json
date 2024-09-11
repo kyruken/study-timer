@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-398b2ccc877371d7d263.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "study-timer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "study-timer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-study-timer-Debug-a1fd3ea55d760a4461c9.json",
+					"name" : "study-timer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "study-timer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-study-timer_autogen-Debug-4c0ecd0950a9873d50d9.json",
+					"name" : "study-timer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "study-timer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-study-timer_autogen_timestamp_deps-Debug-7badb832729817183dea.json",
+					"name" : "study-timer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/avery-kyle-arenas/Desktop/projects/study-timer/build/Desktop_Qt_6_7_2-Debug",
+		"source" : "/home/avery-kyle-arenas/Desktop/projects/study-timer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,9 @@
+/home/avery-kyle-arenas/Desktop/projects/study-timer/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/study-timer.dir
+/home/avery-kyle-arenas/Desktop/projects/study-timer/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/edit_cache.dir
+/home/avery-kyle-arenas/Desktop/projects/study-timer/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/avery-kyle-arenas/Desktop/projects/study-timer/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/list_install_components.dir
+/home/avery-kyle-arenas/Desktop/projects/study-timer/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install.dir
+/home/avery-kyle-arenas/Desktop/projects/study-timer/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/local.dir
+/home/avery-kyle-arenas/Desktop/projects/study-timer/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/strip.dir
+/home/avery-kyle-arenas/Desktop/projects/study-timer/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/study-timer_autogen_timestamp_deps.dir
+/home/avery-kyle-arenas/Desktop/projects/study-timer/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/study-timer_autogen.dir

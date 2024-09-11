@@ -1,0 +1,9 @@
+# ninja log v6
+3	20	1726092967967430712	study-timer_autogen/timestamp	e41ca06f5ad6fc93
+1746	2026	1726092969710458622	study-timer	490924414dc895a6
+3	20	1726092967967430712	study-timer_autogen/mocs_compilation.cpp	e41ca06f5ad6fc93
+292	2184	1726092935870901982	CMakeFiles/study-timer.dir/study-timer_autogen/mocs_compilation.cpp.o	f1f6b1c97084b5bc
+3	20	1726092967967430712	/home/avery-kyle-arenas/Desktop/projects/study-timer/build/Desktop_Qt_6_7_2-Debug/study-timer_autogen/timestamp	e41ca06f5ad6fc93
+20	1746	1726092967984430985	CMakeFiles/study-timer.dir/mainwindow.cpp.o	e5b4463e6b137e6f
+3	20	1726092967967430712	/home/avery-kyle-arenas/Desktop/projects/study-timer/build/Desktop_Qt_6_7_2-Debug/study-timer_autogen/mocs_compilation.cpp	e41ca06f5ad6fc93
+293	2132	1726092935871901999	CMakeFiles/study-timer.dir/main.cpp.o	94e87cc779c80173
