@@ -4,6 +4,8 @@
 #include <QMainWindow>
 #include <QPushButton>
 #include <QLabel>
+#include <QTimer>
+#include <QLCDNumber>
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -18,10 +20,15 @@ class MainWindow : public QMainWindow
 public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
+    void updateDisplay();
 
 private:
     Ui::MainWindow *ui;
     QPushButton *startButton;
     QLabel *appTitle;
+    QTimer *timer;
+    QLCDNumber *counter;
+
+    int secondsElapsed = 0;
 };
 #endif // MAINWINDOW_H

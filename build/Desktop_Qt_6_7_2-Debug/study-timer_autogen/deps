@@ -7,6 +7,7 @@ study-timer_autogen/timestamp: \
 	/home/avery-kyle-arenas/Desktop/projects/study-timer/main.cpp \
 	/home/avery-kyle-arenas/Desktop/projects/study-timer/mainwindow.cpp \
 	/home/avery-kyle-arenas/Desktop/projects/study-timer/mainwindow.h \
+	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/QTimer \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/q20functional.h \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/q20memory.h \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/q20type_traits.h \
@@ -20,6 +21,7 @@ study-timer_autogen/timestamp: \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qatomic.h \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qatomic_cxx11.h \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qbasicatomic.h \
+	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qbasictimer.h \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qbindingstorage.h \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qbytearray.h \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qbytearrayalgorithms.h \
@@ -109,6 +111,7 @@ study-timer_autogen/timestamp: \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qtdeprecationmarkers.h \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qtenvironmentvariables.h \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qtextstream.h \
+	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qtimer.h \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qtmetamacros.h \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qtnoop.h \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qtpreprocessorsupport.h \
@@ -152,12 +155,14 @@ study-timer_autogen/timestamp: \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtGui/qtguiglobal.h \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtGui/qtransform.h \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtGui/qwindowdefs.h \
+	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtWidgets/QLCDNumber \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtWidgets/QLabel \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtWidgets/QMainWindow \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtWidgets/QPushButton \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtWidgets/qabstractbutton.h \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtWidgets/qframe.h \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtWidgets/qlabel.h \
+	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtWidgets/qlcdnumber.h \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtWidgets/qmainwindow.h \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtWidgets/qpushbutton.h \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtWidgets/qsizepolicy.h \
@@ -382,79 +387,22 @@ study-timer_autogen/timestamp: \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets-relwithdebinfo.cmake \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets.cmake \
 	/home/avery-kyle-arenas/Qt/6.7.2/gcc_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsVersionlessTargets.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeCXXCompiler.cmake.in \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeCXXCompilerABI.cpp \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeCXXInformation.cmake \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeCompilerIdDetection.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeDetermineCompileFeatures.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeDetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeFindBinUtils.cmake \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeGenericSystem.cmake \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeNinjaFindMake.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeParseImplicitIncludeInfo.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeParseImplicitLinkInfo.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeParseLibraryArchitecture.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeSystem.cmake.in \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeTestCompilerCommon.cmake \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CheckCXXCompilerFlag.cmake \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CheckCXXSourceCompiles.cmake \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CheckIncludeFileCXX.cmake \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/CheckLibraryExists.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/ADSP-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/ARMCC-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/ARMClang-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/AppleClang-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/Borland-DetermineCompiler.cmake \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/Clang-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/Clang-DetermineCompilerInternal.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/Cray-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/CrayClang-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/Embarcadero-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/Fujitsu-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/GHS-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/GNU-FindBinUtils.cmake \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/GNU.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/HP-CXX-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/IAR-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/Intel-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/MSVC-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/NVHPC-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/NVIDIA-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/OrangeC-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/PGI-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/PathScale-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/SCO-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/TI-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/TIClang-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/Tasking-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/Watcom-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/XL-CXX-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/FeatureSummary.cmake \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/FindOpenGL.cmake \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake \
@@ -463,13 +411,10 @@ study-timer_autogen/timestamp: \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/FindThreads.cmake \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/FindVulkan.cmake \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/GNUInstallDirs.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Internal/CMakeDetermineLinkerId.cmake \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Internal/CheckCompilerFlag.cmake \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Internal/CheckFlagCommonConfig.cmake \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Internal/FeatureTesting.cmake \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/MacroAddFileDependencies.cmake \
-	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Platform/Linux-Determine-CXX.cmake \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Platform/Linux-GNU-CXX.cmake \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Platform/Linux-GNU.cmake \
 	/home/avery-kyle-arenas/Qt/Tools/CMake/share/cmake-3.29/Modules/Platform/Linux-Initialize.cmake \

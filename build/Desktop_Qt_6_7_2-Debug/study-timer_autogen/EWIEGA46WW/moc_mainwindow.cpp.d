@@ -1,5 +1,6 @@
 /home/avery-kyle-arenas/Desktop/projects/study-timer/build/Desktop_Qt_6_7_2-Debug/study-timer_autogen/EWIEGA46WW/moc_mainwindow.cpp: /home/avery-kyle-arenas/Desktop/projects/study-timer/mainwindow.h \
   /home/avery-kyle-arenas/Desktop/projects/study-timer/build/Desktop_Qt_6_7_2-Debug/study-timer_autogen/moc_predefs.h \
+  /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/QTimer \
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/q20functional.h \
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/q20memory.h \
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/q20type_traits.h \
@@ -13,6 +14,7 @@
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qatomic.h \
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qatomic_cxx11.h \
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qbasicatomic.h \
+  /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qbasictimer.h \
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qbindingstorage.h \
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qbytearray.h \
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qbytearrayalgorithms.h \
@@ -102,6 +104,7 @@
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qtdeprecationmarkers.h \
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qtenvironmentvariables.h \
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qtextstream.h \
+  /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qtimer.h \
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qtmetamacros.h \
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qtnoop.h \
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtCore/qtpreprocessorsupport.h \
@@ -145,12 +148,14 @@
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtGui/qtguiglobal.h \
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtGui/qtransform.h \
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtGui/qwindowdefs.h \
+  /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtWidgets/QLCDNumber \
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtWidgets/QLabel \
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtWidgets/QMainWindow \
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtWidgets/QPushButton \
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtWidgets/qabstractbutton.h \
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtWidgets/qframe.h \
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtWidgets/qlabel.h \
+  /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtWidgets/qlcdnumber.h \
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtWidgets/qmainwindow.h \
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtWidgets/qpushbutton.h \
   /home/avery-kyle-arenas/Qt/6.7.2/gcc_64/include/QtWidgets/qsizepolicy.h \
